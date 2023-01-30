@@ -13,7 +13,7 @@ class Saludo extends Component {
 
     render() {
         return (
-            <div>
+            {/*<div>
                 <h1>
                     Hola!!! {this.props.nombre}
                 </h1>
@@ -25,7 +25,7 @@ class Saludo extends Component {
                         Cumplir años
                     </button>
                 </div>
-            </div>
+        </div>*/}
         );
     }
     
